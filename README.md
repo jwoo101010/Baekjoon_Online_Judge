@@ -3,7 +3,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jwoo101010/Baekjoon?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jwoo101010/Baekjoon?style=flat-square)
 
-[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyabye)](https://solved.ac/jwoo101010)
+[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwoo101010)](https://solved.ac/jwoo101010)
 ![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=jwoo101010&theme=warm)
 
 encode_8481.txt is my code to encode text file. (it is not perfect.)\n
